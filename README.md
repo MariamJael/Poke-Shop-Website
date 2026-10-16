@@ -1,6 +1,8 @@
 # Poke-Shop #
 
-Group Project of a Poke Shop Restaurant Website
+Group Project of a Poke Shop Restaurant Website 
+
+https://mariamjael.github.io/Poke-Shop-Website/
 
 ## Authors ##
 
